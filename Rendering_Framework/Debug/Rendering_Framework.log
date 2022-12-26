@@ -1,0 +1,64 @@
+﻿  ViewFrustumSceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  MyImGuiPanel.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\myimguipanel.h(3): fatal error C1083: Cannot open include file: 'imgui\imgui.h': No such file or directory
+  MultiDrawExpRenderWidget.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  MonoRenderWidget.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  InfinityPlane.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  IndirectDrawEXPRenderWidget.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  Transformation.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\transformation.h(3): fatal error C1083: Cannot open include file: 'glm/mat4x4.hpp': No such file or directory
+  TrackBallInteractor.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\camera.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  TextureMaterial.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  Shader.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\shader.h(7): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  SceneUtility.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  SceneRenderer.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\shader.h(7): fatal error C1083: Cannot open include file: 'glad/glad.h': No such file or directory
+  SceneObjectData.cpp
+  SceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  MyFramebufferObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  MyBasicGeometry.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\mybasicgeometry.h(3): fatal error C1083: Cannot open include file: 'glm\vec3.hpp': No such file or directory
+  MultiIndirectSceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  MultiDrawSceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  ISceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  InstancedSceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  Generating Code...
+  Compiling...
+  IndirectSceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  Importer.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\importer.h(8): fatal error C1083: Cannot open include file: 'assimp\Importer.hpp': No such file or directory
+  DynamicSceneObject.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  DiffuseMaterial.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  Camera.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\camera.h(4): fatal error C1083: Cannot open include file: 'glm/glm.hpp': No such file or directory
+  AxisAlignedBoundingBox.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\iboundinggeometry.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  main.cpp
+c:\users\kevin\desktop\projects\opengl\framework\rendering_framework\src\basic\scenemanager.h(3): fatal error C1083: Cannot open include file: 'glm\mat4x4.hpp': No such file or directory
+  imgui_widgets.cpp
+  imgui_tables.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_glfw.cpp
+c:\users\kevin\desktop\projects\opengl\framework\externals\include\imgui\imgui_impl_glfw.cpp(65): fatal error C1083: Cannot open include file: 'GLFW/glfw3.h': No such file or directory
+  imgui_draw.cpp
+  imgui_demo.cpp
+  imgui.cpp
+  Generating Code...

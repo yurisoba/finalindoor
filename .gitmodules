@@ -1,0 +1,3 @@
+[submodule "Rendering_Framework/imgui"]
+	path = Rendering_Framework/imgui
+	url = https://github.com/ocornut/imgui

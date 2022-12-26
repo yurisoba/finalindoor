@@ -1,0 +1,18 @@
+﻿Build started 2021/12/2 下午 01:43:10.
+     1>Project "C:\Users\Kevin\Desktop\TA_v3\Rendering_Framework\Rendering_Framework\Rendering_Framework.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TC /errorReport:prompt src\glad.c
+         glad.c
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kevin\Desktop\TA_v3\Rendering_Framework\x64\Release\Rendering_Framework.exe" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kevin\Desktop\TA_v3\Rendering_Framework\x64\Release\Rendering_Framework.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kevin\Desktop\TA_v3\Rendering_Framework\x64\Release\Rendering_Framework.lib" /MACHINE:X64 x64\Release\main.obj
+         x64\Release\glad.obj
+         Generating code
+         Finished generating code
+         Rendering_Framework.vcxproj -> C:\Users\Kevin\Desktop\TA_v3\Rendering_Framework\x64\Release\Rendering_Framework.exe
+     1>Done Building Project "C:\Users\Kevin\Desktop\TA_v3\Rendering_Framework\Rendering_Framework\Rendering_Framework.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:02.28
