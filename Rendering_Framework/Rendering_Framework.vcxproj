@@ -87,11 +87,11 @@
   </ImportGroup>
   <PropertyGroup Label="UserMacros" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
-    <IncludePath>$(SolutionDir)\externals\include;$(SolutionDir);$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)\externals\include;$(SolutionDir);$(SolutionDir)\Rendering_Framework;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)\externals\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
-    <IncludePath>$(SolutionDir)\externals\include;$(SolutionDir);$(IncludePath)</IncludePath>
+    <IncludePath>$(SolutionDir)\externals\include;$(SolutionDir);$(SolutionDir)\Rendering_Framework;$(IncludePath)</IncludePath>
     <LibraryPath>$(SolutionDir)\externals\libs;$(LibraryPath)</LibraryPath>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">

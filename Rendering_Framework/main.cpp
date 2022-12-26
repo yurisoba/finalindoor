@@ -2,6 +2,10 @@
 #include "imgui/imgui_impl_glfw.h"
 #include "imgui/imgui_impl_opengl3.h"
 
+#pragma comment(lib, "lib-vc2015\\glfw3.lib")
+#pragma comment(lib, "assimp-vc141-mt.lib")
+#pragma comment(lib, "glew32.lib")
+
 #define STB_IMAGE_IMPLEMENTATION
 #include "stb_image.h"
 
